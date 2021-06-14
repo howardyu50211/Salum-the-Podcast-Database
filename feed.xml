@@ -4,7 +4,7 @@
   
 <title>Salum the Podcast</title>
 
-<link>https://howardyu50211.github.io/</link>
+<link>https://howardyu50211.github.io/salumtheconlang</link>
 <language>en-us</language>
 <atom:link href="https://howardyu50211.github.io/salumthepodcast/feed.xml" rel="self" type="application/rss+xml"/>
   
@@ -44,13 +44,13 @@ Explaining why I didn't upload videos and read the comments on Instagram INSTAGR
 ]]>
 </description>
 <itunes:image href="https://howardyu50211.github.io/salumthepodcast/logo.jpg"/>
-
+<enclosure url="https://howardyu50211.github.io/salumthepodcast/mp3s/tagmp3_Ep1--when-we-start.mp3" length="LENGTH" type="audio/mpeg"/>
 <itunes:duration>736</itunes:duration>
 <itunes:season>1</itunes:season>
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
-https://howardyu50211.github.io/salumthepodcast/mp3s/tagmp3_Ep1--when-we-start.MP3
+https://howardyu50211.github.io/salumthepodcast/mp3s/tagmp3_Ep1--when-we-start.mp3
 </guid>
 <pubDate>Wed Jun 9 2021</pubDate>
 <itunes:explicit>no</itunes:explicit>
